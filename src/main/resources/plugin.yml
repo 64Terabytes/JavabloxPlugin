@@ -1,0 +1,8 @@
+name: Javablox
+version: '${project.version}'
+main: com.craftblox.spigot.plugin.Plugin
+api-version: 1.18
+prefix: Javablox
+load: STARTUP
+authors: [ 64Terabytes ]
+description: AAAAAAAAAAAA
